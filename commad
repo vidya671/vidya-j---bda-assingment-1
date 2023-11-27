@@ -1,0 +1,11 @@
+pwd
+mkdir vid_directory
+ls
+toch vid_file.txt
+ls
+touch file.txt
+ls
+cat vid_file.txt
+echo "hello this is the content in vid_file.txt" >> vid_file.txt
+cat new_file.txt
+  
